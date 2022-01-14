@@ -1,8 +1,9 @@
-# group-project
+# Vivid Stroke
+![alt="site"](client/public/VividStroke7.png)
 
 
 ## Contribution
-Made with ❤️ by Dirty Bits 
+Made with ❤️ by Dirty Bits Team
 * Chase Harvey
 * Seth Hixon
 * J Taylor Allen
