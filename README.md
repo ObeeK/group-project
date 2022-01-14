@@ -1,7 +1,9 @@
-# group-project
+# Vivid Stroke
+![alt="site"](client/public/VividStroke7.png)
 
 
-## Dirty Bits 
+## Contribution
+Made with ❤️ by Dirty Bits Team
 * Chase Harvey
 * Seth Hixon
 * J Taylor Allen
@@ -9,3 +11,5 @@
 * Paul Barcenas
 * Jared Dodson
  
+
+ ### ©️2022 Dirty Bits, Inc.
